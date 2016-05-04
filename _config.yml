@@ -1,0 +1,28 @@
+name: T-rev
+favicon: null
+layout_spectrum: 0.0955719999037683
+typography_spectrum: 0.2931115368846804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7289024107158184
+  lightness: 0.09525730251334608
+  saturation: 0.4744004006497562
+  rhythmicContrast: 0.3816117162350565
+purpose: []
